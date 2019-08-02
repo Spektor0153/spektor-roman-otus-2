@@ -1,0 +1,15 @@
+{
+  "name": "spektor-roman-otus-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript-2.js",
+  "dependencies": {
+    "async": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "promiseReduce": "node javascript-2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
