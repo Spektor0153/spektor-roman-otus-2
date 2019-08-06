@@ -2,4 +2,5 @@
 
 
 //Для старта проекта
+
 npm run promiseReduce
