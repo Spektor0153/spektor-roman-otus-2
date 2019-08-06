@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "javascript-2.js",
-  "dependencies": {
-    "async": "^3.1.0"
-  },
+  "dependencies": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "promiseReduce": "node javascript-2.js"
   },
-  "author": "",
+  "author": "Spektor Roman",
   "license": "ISC"
 }
